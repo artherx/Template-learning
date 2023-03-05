@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #65CDEB;
+    --secundary-color: #6B69F5;
+    --font-primary: 'Roboto', sans-serif;
+    ;
+    --font-secundary: 'Open Sans', sans-serif;
+    ;
+}
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+* {
+    font-family: var(--font-primary);
+}

@@ -1,8 +1,9 @@
-# Instreuctivo
+# Instructivo
 
 ## Etiquetas
 
 **\<section>\</section>**: Esta es la etiqueta para definir seciones o separar seciones de la pagina web.
+**\<nav>\</nav>**: Esta es la etiqueta para refrenciar un navbar o una barra de items.
 
 ## GIT
 
