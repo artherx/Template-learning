@@ -24,7 +24,7 @@
 ### Informacion para adicion y publicacion de cambios dentro de la repo
 
 - Para agregar cambios realizados en los archivos usamos **git add \<nombre del archivo o ruta del archivo con el archivo o solo ruta del directorio.>** o **git add .** (Con esta ultima agrega todos los cambios).
-- Para crear el commit se hace **git commit -m "<Mensaje del commit>"**.
-- Para subir los cambios usamos **git push <nombre del enlace, ej. origin> <nombre de la rama donde se va a publicar>**.
-- Para traer cambios que hayan subida a la repo otros compañeros a la rama que se esta trabajando usamos **git pull <nombre del enlace, ej. origin> <nombre de la rama que se quiere traer los cambios>**.
+- Para crear el commit se hace **git commit -m "\<Mensaje del commit>"**.
+- Para subir los cambios usamos **git push \<nombre del enlace, ej. origin> \<nombre de la rama donde se va a publicar>**.
+- Para traer cambios que hayan subida a la repo otros compañeros a la rama que se esta trabajando usamos **git pull \<nombre del enlace, ej. origin> \<nombre de la rama que se quiere enviar los cambios>**.
 - Para revisar algun cambio que haya en la repo o en nuestro directorio usamos **git status**
